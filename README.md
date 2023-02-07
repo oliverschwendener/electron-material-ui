@@ -2,8 +2,6 @@
 
 This is a repo to quickly start the development of an electron application with [Material UI](https://mui.com/).
 
-![example-image.png](docs/example-image.png)
-
 ## Development
 
 -   Install dependencies
